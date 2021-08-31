@@ -1,1 +1,1 @@
-# 2021_PNAS_Kriegman_Blackiston
+# kinematically_replicating_organisms
