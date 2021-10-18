@@ -1,5 +1,6 @@
-# kinematically_replicating_organisms
+# Kinematically Replicating Organisms
 
+FAQ, videos, and images can be found here: [krorgs.github.io](https://krorgs.github.io)
 
 step 1: install [voxcraft](https://github.com/voxcraft/voxcraft-sim).
 
